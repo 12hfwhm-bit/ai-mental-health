@@ -1,0 +1,8 @@
+{
+  "name": "ai-mental-health-helper",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "cd ai-vue && npm install && npm run build"
+  },
+  "devDependencies": {}
+}

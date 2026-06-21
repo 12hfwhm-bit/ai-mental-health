@@ -1,0 +1,10 @@
+{
+  "rootDirectory": "ai-vue",
+  "framework": "vite",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/"
+    }
+  ]
+}
