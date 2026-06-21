@@ -1,5 +1,4 @@
 {
-  "rootDirectory": "ai-vue",
   "framework": "vite",
   "rewrites": [
     {
